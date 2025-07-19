@@ -168,6 +168,7 @@ footer{
 }
 
 .foot-des{
+    text-align: center;
     
      justify-content: center;
      align-items: center;
@@ -193,6 +194,9 @@ footer{
 }
 .features{
     margin-left: 20px;
+}
+.foot-des{
+    text-align: center;
 }
     
 }
