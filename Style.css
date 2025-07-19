@@ -156,6 +156,24 @@ main>section{
 .sponsor-company img{
     filter: grayscale(100%);
 }
+
+/*footer*/
+footer{
+    background-color: #FFF4E7;
+    max-width: 1440px;
+    height: 100px;
+    margin: 60px auto;
+    
+   
+}
+
+.foot-des{
+    
+     justify-content: center;
+     align-items: center;
+     padding-top: 15px;
+}
+
 /*media quary*/
 @media screen and (max-width:576px) {
     
